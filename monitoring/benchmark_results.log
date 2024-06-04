@@ -1,0 +1,360 @@
+2024-05-14 15:56:44,524 - INFO - =========================================================
+2024-05-14 15:56:44,525 - INFO - starting run ...
+2024-05-14 15:56:44,527 - INFO - asic_frequency: 400
+chips: 4
+extranonce2_interval: 1.9
+fan_speed_1: 1.0
+fan_speed_2: 1.0
+name: QAxe
+serial_port_asic: /dev/ttyACM0
+serial_port_ctrl: /dev/ttyACM1
+
+2024-05-14 16:12:23,334 - INFO - finished, elapsed: 900.0863547325134, hashrate: 1458.545GH/s
+2024-05-14 16:12:23,351 - INFO - =========================================================
+2024-05-14 16:12:23,351 - INFO - starting run ...
+2024-05-14 16:12:23,356 - INFO - asic_frequency: 405
+chips: 4
+extranonce2_interval: 1.9
+fan_speed_1: 1.0
+fan_speed_2: 1.0
+name: QAxe
+serial_port_asic: /dev/ttyACM0
+serial_port_ctrl: /dev/ttyACM1
+
+2024-05-14 16:27:56,120 - INFO - finished, elapsed: 900.1088581085205, hashrate: 1336.356GH/s
+2024-05-14 16:27:56,121 - INFO - =========================================================
+2024-05-14 16:27:56,122 - INFO - starting run ...
+2024-05-14 16:27:56,126 - INFO - asic_frequency: 410
+chips: 4
+extranonce2_interval: 1.9
+fan_speed_1: 1.0
+fan_speed_2: 1.0
+name: QAxe
+serial_port_asic: /dev/ttyACM0
+serial_port_ctrl: /dev/ttyACM1
+
+2024-05-14 16:43:29,380 - INFO - finished, elapsed: 900.1045427322388, hashrate: 1414.541GH/s
+2024-05-14 16:43:29,381 - INFO - =========================================================
+2024-05-14 16:43:29,382 - INFO - starting run ...
+2024-05-14 16:43:29,386 - INFO - asic_frequency: 415
+chips: 4
+extranonce2_interval: 1.9
+fan_speed_1: 1.0
+fan_speed_2: 1.0
+name: QAxe
+serial_port_asic: /dev/ttyACM0
+serial_port_ctrl: /dev/ttyACM1
+
+2024-05-14 16:59:06,911 - INFO - finished, elapsed: 900.1060543060303, hashrate: 1539.135GH/s
+2024-05-14 16:59:06,912 - INFO - =========================================================
+2024-05-14 16:59:06,912 - INFO - starting run ...
+2024-05-14 16:59:06,917 - INFO - asic_frequency: 420
+chips: 4
+extranonce2_interval: 1.9
+fan_speed_1: 1.0
+fan_speed_2: 1.0
+name: QAxe
+serial_port_asic: /dev/ttyACM0
+serial_port_ctrl: /dev/ttyACM1
+
+2024-05-14 17:14:42,288 - INFO - finished, elapsed: 900.1074659824371, hashrate: 1390.105GH/s
+2024-05-14 17:14:42,297 - INFO - =========================================================
+2024-05-14 17:14:42,298 - INFO - starting run ...
+2024-05-14 17:14:42,302 - INFO - asic_frequency: 425
+chips: 4
+extranonce2_interval: 1.9
+fan_speed_1: 1.0
+fan_speed_2: 1.0
+name: QAxe
+serial_port_asic: /dev/ttyACM0
+serial_port_ctrl: /dev/ttyACM1
+
+2024-05-14 17:30:15,985 - INFO - finished, elapsed: 900.1110155582428, hashrate: 1451.176GH/s
+2024-05-14 17:30:15,995 - INFO - =========================================================
+2024-05-14 17:30:15,996 - INFO - starting run ...
+2024-05-14 17:30:16,000 - INFO - asic_frequency: 430
+chips: 4
+extranonce2_interval: 1.9
+fan_speed_1: 1.0
+fan_speed_2: 1.0
+name: QAxe
+serial_port_asic: /dev/ttyACM0
+serial_port_ctrl: /dev/ttyACM1
+
+2024-05-14 17:45:49,574 - INFO - finished, elapsed: 900.1119191646576, hashrate: 1394.985GH/s
+2024-05-14 17:45:49,578 - INFO - =========================================================
+2024-05-14 17:45:49,579 - INFO - starting run ...
+2024-05-14 17:45:49,583 - INFO - asic_frequency: 435
+chips: 4
+extranonce2_interval: 1.9
+fan_speed_1: 1.0
+fan_speed_2: 1.0
+name: QAxe
+serial_port_asic: /dev/ttyACM0
+serial_port_ctrl: /dev/ttyACM1
+
+2024-05-14 18:01:24,529 - INFO - finished, elapsed: 900.1062405109406, hashrate: 1482.944GH/s
+2024-05-14 18:01:24,533 - INFO - =========================================================
+2024-05-14 18:01:24,534 - INFO - starting run ...
+2024-05-14 18:01:24,538 - INFO - asic_frequency: 440
+chips: 4
+extranonce2_interval: 1.9
+fan_speed_1: 1.0
+fan_speed_2: 1.0
+name: QAxe
+serial_port_asic: /dev/ttyACM0
+serial_port_ctrl: /dev/ttyACM1
+
+2024-05-14 18:16:58,409 - INFO - finished, elapsed: 900.1069579124451, hashrate: 1531.804GH/s
+2024-05-14 18:16:58,410 - INFO - =========================================================
+2024-05-14 18:16:58,411 - INFO - starting run ...
+2024-05-14 18:16:58,415 - INFO - asic_frequency: 445
+chips: 4
+extranonce2_interval: 1.9
+fan_speed_1: 1.0
+fan_speed_2: 1.0
+name: QAxe
+serial_port_asic: /dev/ttyACM0
+serial_port_ctrl: /dev/ttyACM1
+
+2024-05-14 18:32:32,583 - INFO - finished, elapsed: 900.1082806587219, hashrate: 1558.676GH/s
+2024-05-14 18:32:32,586 - INFO - =========================================================
+2024-05-14 18:32:32,587 - INFO - starting run ...
+2024-05-14 18:32:32,591 - INFO - asic_frequency: 450
+chips: 4
+extranonce2_interval: 1.9
+fan_speed_1: 1.0
+fan_speed_2: 1.0
+name: QAxe
+serial_port_asic: /dev/ttyACM0
+serial_port_ctrl: /dev/ttyACM1
+
+2024-05-14 18:48:08,438 - INFO - finished, elapsed: 900.1055521965027, hashrate: 1575.782GH/s
+2024-05-14 18:48:08,438 - INFO - =========================================================
+2024-05-14 18:48:08,439 - INFO - starting run ...
+2024-05-14 18:48:08,441 - INFO - asic_frequency: 455
+chips: 4
+extranonce2_interval: 1.9
+fan_speed_1: 1.0
+fan_speed_2: 1.0
+name: QAxe
+serial_port_asic: /dev/ttyACM0
+serial_port_ctrl: /dev/ttyACM1
+
+2024-05-14 19:03:41,548 - INFO - finished, elapsed: 900.1115159988403, hashrate: 1583.101GH/s
+2024-05-14 19:03:41,555 - INFO - =========================================================
+2024-05-14 19:03:41,556 - INFO - starting run ...
+2024-05-14 19:03:41,561 - INFO - asic_frequency: 460
+chips: 4
+extranonce2_interval: 1.9
+fan_speed_1: 1.0
+fan_speed_2: 1.0
+name: QAxe
+serial_port_asic: /dev/ttyACM0
+serial_port_ctrl: /dev/ttyACM1
+
+2024-05-14 19:19:16,316 - INFO - finished, elapsed: 900.106508731842, hashrate: 1678.389GH/s
+2024-05-14 19:19:16,317 - INFO - =========================================================
+2024-05-14 19:19:16,317 - INFO - starting run ...
+2024-05-14 19:19:16,322 - INFO - asic_frequency: 465
+chips: 4
+extranonce2_interval: 1.9
+fan_speed_1: 1.0
+fan_speed_2: 1.0
+name: QAxe
+serial_port_asic: /dev/ttyACM0
+serial_port_ctrl: /dev/ttyACM1
+
+2024-05-14 19:34:50,730 - INFO - finished, elapsed: 900.1047801971436, hashrate: 1719.925GH/s
+2024-05-14 19:34:50,735 - INFO - =========================================================
+2024-05-14 19:34:50,735 - INFO - starting run ...
+2024-05-14 19:34:50,737 - INFO - asic_frequency: 470
+chips: 4
+extranonce2_interval: 1.9
+fan_speed_1: 1.0
+fan_speed_2: 1.0
+name: QAxe
+serial_port_asic: /dev/ttyACM0
+serial_port_ctrl: /dev/ttyACM1
+
+2024-05-14 19:50:24,251 - INFO - finished, elapsed: 900.1046032905579, hashrate: 1641.747GH/s
+2024-05-14 19:50:24,252 - INFO - =========================================================
+2024-05-14 19:50:24,252 - INFO - starting run ...
+2024-05-14 19:50:24,257 - INFO - asic_frequency: 475
+chips: 4
+extranonce2_interval: 1.9
+fan_speed_1: 1.0
+fan_speed_2: 1.0
+name: QAxe
+serial_port_asic: /dev/ttyACM0
+serial_port_ctrl: /dev/ttyACM1
+
+2024-05-14 20:05:58,512 - INFO - finished, elapsed: 900.0914950370789, hashrate: 1541.603GH/s
+2024-05-14 20:05:58,517 - INFO - =========================================================
+2024-05-14 20:05:58,518 - INFO - starting run ...
+2024-05-14 20:05:58,523 - INFO - asic_frequency: 480
+chips: 4
+extranonce2_interval: 1.9
+fan_speed_1: 1.0
+fan_speed_2: 1.0
+name: QAxe
+serial_port_asic: /dev/ttyACM0
+serial_port_ctrl: /dev/ttyACM1
+
+2024-05-14 20:21:33,942 - INFO - finished, elapsed: 900.1071574687958, hashrate: 1658.843GH/s
+2024-05-14 20:21:33,946 - INFO - =========================================================
+2024-05-14 20:21:33,947 - INFO - starting run ...
+2024-05-14 20:21:33,951 - INFO - asic_frequency: 485
+chips: 4
+extranonce2_interval: 1.9
+fan_speed_1: 1.0
+fan_speed_2: 1.0
+name: QAxe
+serial_port_asic: /dev/ttyACM0
+serial_port_ctrl: /dev/ttyACM1
+
+2024-05-14 20:37:09,168 - INFO - finished, elapsed: 900.108859539032, hashrate: 1754.120GH/s
+2024-05-14 20:37:09,169 - INFO - =========================================================
+2024-05-14 20:37:09,170 - INFO - starting run ...
+2024-05-14 20:37:09,174 - INFO - asic_frequency: 490
+chips: 4
+extranonce2_interval: 1.9
+fan_speed_1: 1.0
+fan_speed_2: 1.0
+name: QAxe
+serial_port_asic: /dev/ttyACM0
+serial_port_ctrl: /dev/ttyACM1
+
+2024-05-14 20:52:47,072 - INFO - finished, elapsed: 900.1123435497284, hashrate: 1758.999GH/s
+2024-05-14 20:52:47,073 - INFO - =========================================================
+2024-05-14 20:52:47,073 - INFO - starting run ...
+2024-05-14 20:52:47,078 - INFO - asic_frequency: 495
+chips: 4
+extranonce2_interval: 1.9
+fan_speed_1: 1.0
+fan_speed_2: 1.0
+name: QAxe
+serial_port_asic: /dev/ttyACM0
+serial_port_ctrl: /dev/ttyACM1
+
+2024-05-14 21:08:22,639 - INFO - finished, elapsed: 900.1061434745789, hashrate: 1851.848GH/s
+2024-05-14 21:08:22,648 - INFO - =========================================================
+2024-05-14 21:08:22,648 - INFO - starting run ...
+2024-05-14 21:08:22,653 - INFO - asic_frequency: 500
+chips: 4
+extranonce2_interval: 1.9
+fan_speed_1: 1.0
+fan_speed_2: 1.0
+name: QAxe
+serial_port_asic: /dev/ttyACM0
+serial_port_ctrl: /dev/ttyACM1
+
+2024-05-14 21:23:58,154 - INFO - finished, elapsed: 900.108325958252, hashrate: 1807.868GH/s
+2024-05-14 21:23:58,156 - INFO - =========================================================
+2024-05-14 21:23:58,157 - INFO - starting run ...
+2024-05-14 21:23:58,161 - INFO - asic_frequency: 505
+chips: 4
+extranonce2_interval: 1.9
+fan_speed_1: 1.0
+fan_speed_2: 1.0
+name: QAxe
+serial_port_asic: /dev/ttyACM0
+serial_port_ctrl: /dev/ttyACM1
+
+2024-05-14 21:39:33,036 - INFO - finished, elapsed: 900.1134147644043, hashrate: 1890.922GH/s
+2024-05-14 21:39:33,040 - INFO - =========================================================
+2024-05-14 21:39:33,040 - INFO - starting run ...
+2024-05-14 21:39:33,045 - INFO - asic_frequency: 510
+chips: 4
+extranonce2_interval: 1.9
+fan_speed_1: 1.0
+fan_speed_2: 1.0
+name: QAxe
+serial_port_asic: /dev/ttyACM0
+serial_port_ctrl: /dev/ttyACM1
+
+2024-05-14 21:55:08,772 - INFO - finished, elapsed: 900.1090762615204, hashrate: 1944.678GH/s
+2024-05-14 21:55:08,776 - INFO - =========================================================
+2024-05-14 21:55:08,777 - INFO - starting run ...
+2024-05-14 21:55:08,782 - INFO - asic_frequency: 515
+chips: 4
+extranonce2_interval: 1.9
+fan_speed_1: 1.0
+fan_speed_2: 1.0
+name: QAxe
+serial_port_asic: /dev/ttyACM0
+serial_port_ctrl: /dev/ttyACM1
+
+2024-05-14 22:10:44,918 - INFO - finished, elapsed: 900.1131525039673, hashrate: 1856.720GH/s
+2024-05-14 22:10:44,919 - INFO - =========================================================
+2024-05-14 22:10:44,920 - INFO - starting run ...
+2024-05-14 22:10:44,924 - INFO - asic_frequency: 520
+chips: 4
+extranonce2_interval: 1.9
+fan_speed_1: 1.0
+fan_speed_2: 1.0
+name: QAxe
+serial_port_asic: /dev/ttyACM0
+serial_port_ctrl: /dev/ttyACM1
+
+2024-05-14 22:26:21,621 - INFO - finished, elapsed: 900.1046509742737, hashrate: 1890.940GH/s
+2024-05-14 22:26:21,622 - INFO - =========================================================
+2024-05-14 22:26:21,623 - INFO - starting run ...
+2024-05-14 22:26:21,627 - INFO - asic_frequency: 525
+chips: 4
+extranonce2_interval: 1.9
+fan_speed_1: 1.0
+fan_speed_2: 1.0
+name: QAxe
+serial_port_asic: /dev/ttyACM0
+serial_port_ctrl: /dev/ttyACM1
+
+2024-05-14 22:41:56,853 - INFO - finished, elapsed: 900.101151227951, hashrate: 1812.769GH/s
+2024-05-14 22:41:56,861 - INFO - =========================================================
+2024-05-14 22:41:56,862 - INFO - starting run ...
+2024-05-14 22:41:56,866 - INFO - asic_frequency: 530
+chips: 4
+extranonce2_interval: 1.9
+fan_speed_1: 1.0
+fan_speed_2: 1.0
+name: QAxe
+serial_port_asic: /dev/ttyACM0
+serial_port_ctrl: /dev/ttyACM1
+
+2024-05-14 22:57:32,953 - INFO - finished, elapsed: 900.1133601665497, hashrate: 2003.302GH/s
+2024-05-14 22:57:32,954 - INFO - =========================================================
+2024-05-14 22:57:32,955 - INFO - starting run ...
+2024-05-14 22:57:32,959 - INFO - asic_frequency: 535
+chips: 4
+extranonce2_interval: 1.9
+fan_speed_1: 1.0
+fan_speed_2: 1.0
+name: QAxe
+serial_port_asic: /dev/ttyACM0
+serial_port_ctrl: /dev/ttyACM1
+
+2024-05-14 23:13:08,556 - INFO - finished, elapsed: 900.11274933815, hashrate: 1944.670GH/s
+2024-05-14 23:13:08,557 - INFO - =========================================================
+2024-05-14 23:13:08,558 - INFO - starting run ...
+2024-05-14 23:13:08,562 - INFO - asic_frequency: 540
+chips: 4
+extranonce2_interval: 1.9
+fan_speed_1: 1.0
+fan_speed_2: 1.0
+name: QAxe
+serial_port_asic: /dev/ttyACM0
+serial_port_ctrl: /dev/ttyACM1
+
+2024-05-14 23:28:44,561 - INFO - finished, elapsed: 900.1121294498444, hashrate: 1829.848GH/s
+2024-05-14 23:28:44,562 - INFO - =========================================================
+2024-05-14 23:28:44,562 - INFO - starting run ...
+2024-05-14 23:28:44,567 - INFO - asic_frequency: 545
+chips: 4
+extranonce2_interval: 1.9
+fan_speed_1: 1.0
+fan_speed_2: 1.0
+name: QAxe
+serial_port_asic: /dev/ttyACM0
+serial_port_ctrl: /dev/ttyACM1
+
+2024-05-14 23:44:20,475 - INFO - finished, elapsed: 900.103999376297, hashrate: 1942.246GH/s
